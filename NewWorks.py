@@ -1,4 +1,4 @@
-type="ak47"
+type="glock"
 if type is "ak47":
     print("Whoop,Whoop")
 elif type is "glock":
